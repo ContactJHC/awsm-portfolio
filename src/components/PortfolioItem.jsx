@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function PortfolioItem( { id, title, imgUrl, stack, link} ) {
   return (
-    <div className='border-2 border-stone-900 dark:border-white rounded-md overflow-hidden'>
+    <a href={link} className='border-2 border-stone-900 dark:border-white rounded-md overflow-hidden' key={id}>
         <img
             src={imgUrl}
             alt='portfolio'
@@ -22,6 +22,6 @@ export default function PortfolioItem( { id, title, imgUrl, stack, link} ) {
                 ))}
             </p>
         </div>
-    </div>
+    </a>
   )
 }

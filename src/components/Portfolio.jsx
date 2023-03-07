@@ -21,11 +21,11 @@ export default function Portfolio() {
                 id: 'st12'
             },
             {
-                element : 'JavaScript',
+                element : 'React.js',
                 id: 'st13'
             },
             {
-                element: 'React',
+                element: 'Aim : enjoying React facilitations',
                 id: 'st14'
             },
         ],
@@ -45,13 +45,13 @@ export default function Portfolio() {
                 id: 'st22'
             },
             {
-                element : 'JavaScript',
+                element : 'Vanilla JS',
                 id: 'st23'
             },
             {
-                element: 'Vanilla',
+                element: 'Aim : Asynchronous fetching',
                 id: 'st24'
-            },
+            }
         ],
         link: 'https://contactjhc.github.io/Front-End-Fisheye/',
     },
@@ -61,19 +61,19 @@ export default function Portfolio() {
         imgUrl: projetSept,
         stack: [
             {
-                element: 'HTML',
+                element: 'Bootstrap',
                 id: 'st31'
             },
             {
-                element : 'CSS',
+                element : 'Vanilla JS',
                 id: 'st32'
             },
             {
-                element : 'JavaScript',
+                element : 'Algorithms',
                 id: 'st33'
             },
             {
-                element: 'Vanilla',
+                element: 'Aim : Cross-search bar/tags',
                 id: 'st34'
             },
         ],

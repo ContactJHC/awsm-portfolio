@@ -8,13 +8,14 @@ export default function Intro() {
           Jules
         </h1>
         <p className='text-base md:text-xl mb-3 font-medium'>Front-End Developer & Philanthropist</p>
-        <p className='text-sm max-w-xl mb-6 font-bold'>CS graduate and adept front-end developer 
-            focusing on JavaScript mobile-first development. 
-            After success with 14 challenging projects that were 
-            front-end from scratch, I am eager to continue my 
-            career by joining a hardworking and interactive team 
-            where I will continue expanding my Javascript/IT knowledge 
-            into perfecting accessibility, performance and responsive design.
+        <p className='text-sm max-w-xl mb-2 font-bold'>
+        I started my career as an engineer, but have since transitioned to programming.
+        </p>
+        <p className='text-sm max-w-xl mb-2 font-bold'>
+        My passions lie in optimizing efficiency and integrating these principles into everyday life. As for my values, I prioritize teamwork, having fun, building trust, and encouraging innovation. I'm eager to work with empathetic, forward-thinking natural leaders who are shaping the future. I'm only interested in collaborating with companies that prioritize people and innovation.
+        </p>
+        <p className='text-sm max-w-xl mb-6 font-bold'>
+        To sum up, I'm a recent CS graduate and experienced front-end developer with a focus on JavaScript React mobile-first development. I'm excited to join an interactive, hardworking team where I can continue to expand my knowledge of JavaScript, perfecting accessibility, performance, and responsive design.
         </p>
     </div>
   )

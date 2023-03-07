@@ -2,7 +2,7 @@ export const portfolio = [
     {
         id: 'pf1',
         title: 'Kasa',
-        imgUrl: './P11.JPG',
+        imgUrl: '/assets/P11.JPG',
         stack: [
             {
                 element: 'HTML',
@@ -26,7 +26,7 @@ export const portfolio = [
     {
         id: 'pf2',
         title: 'Fisheye',
-        imgUrl: './P6.JPG',
+        imgUrl: '/assets/P6.JPG',
         stack: [
             {
                 element: 'HTML',
@@ -50,7 +50,7 @@ export const portfolio = [
     {
         id: 'pf3',
         title: 'Les Petits Plats',
-        imgUrl: './P7.JPG',
+        imgUrl: '/assets/P7.JPG',
         stack: [
             {
                 element: 'HTML',

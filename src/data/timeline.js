@@ -3,7 +3,7 @@ export default [
         id: 'tl1',
         year: 'Today',
         title: 'Volunteer Front-End Consultant & Author',
-        duration: '< 1 month',
+        duration: '2 months',
         details: 
             'I accompany entrepreneurs of the mental and physical health sectors in their web development strategies, on a voluntary basis. '
             + 'I also wish to let a humble legacy by documenting about my 7+ years << mind structures and optimization discoveries >> journey to help those coming behind me.',

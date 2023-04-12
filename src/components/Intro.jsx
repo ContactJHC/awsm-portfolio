@@ -7,7 +7,7 @@ export default function Intro() {
         font-medium'>
           Jules
         </h1>
-        <p className='text-base md:text-xl mb-3 font-medium'>Front-End Developer & Philanthropist</p>
+        <p className='text-base md:text-xl mb-3 font-medium'>Front-End Developer & Humanist</p>
         <p className='text-sm max-w-xl mb-2 font-bold'>
         I started my career as an engineer, but have since transitioned to programming.
         </p>

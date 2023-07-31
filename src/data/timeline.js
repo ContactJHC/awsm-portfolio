@@ -1,12 +1,21 @@
 export default [
     {
-        id: 'tl1',
+        id: 'tl0',
         year: 'Today',
+        title: 'Geotechnical Engineer',
+        duration: '2 months',
+        details: 
+            'My work lies in leading soil operations in order to get back soil properties so to be able to calculate soil slices dynamics.'
+            + 'I create models out of the interperations which are combined to laboratory testes to enable me to create reports out of the results.',
+    },
+    {
+        id: 'tl1',
+        year: '2023 03-06',
         title: 'Volunteer Front-End Consultant & Author',
         duration: '2 months',
         details: 
-            'I accompany entrepreneurs of the mental and physical health sectors in their web development strategies, on a voluntary basis. '
-            + 'I also wish to let a humble legacy by documenting about my 7+ years << mind structures and optimization discoveries >> journey to help those coming behind me.',
+            'I accompanied entrepreneurs of the mental and physical health sectors in their web development strategies, on a voluntary basis. '
+            + 'I also wished to let a humble legacy by documenting about my 7+ years << mind structures and optimization discoveries >> journey to help those coming behind me.',
     },
     {
         id: 'tl2',
@@ -27,7 +36,7 @@ export default [
         year: '2021',
         title: "Project Manager -- Ginger CEBTP",
         duration: '18 months',
-        details: 'Created and maintained technical teams, laboratory teams, providers netword. Conducted 143 projects from A to Z - from customers callins to sending their studies report.'
+        details: 'Created and maintained technical teams, laboratory teams, providers netword. Conducted 143 projects from A to Z - from customers calls to sending their studies report.'
     }, 
     {
         id: 'tl5',

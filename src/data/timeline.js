@@ -5,8 +5,7 @@ export default [
         title: 'Geotechnical Engineer',
         duration: '5 months',
         details: 
-            'My work lies in leading soil operations in order to get back soil properties so to be able to calculate soil slices dynamics.'
-            + 'I create models out of the interperations which are combined to laboratory testes to enable me to create reports out of the results.',
+            'My work lied in leading soil operations in order to get back soil properties so to be able to calculate soil slices dynamics. I create models out of the interperations which are combined to laboratory testes to enable me to create reports out of the results.',
     },
     {
         id: 'tl1',

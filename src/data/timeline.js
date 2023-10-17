@@ -3,7 +3,7 @@ export default [
         id: 'tl0',
         year: 'Today',
         title: 'Geotechnical Engineer',
-        duration: '2 months',
+        duration: '5 months',
         details: 
             'My work lies in leading soil operations in order to get back soil properties so to be able to calculate soil slices dynamics.'
             + 'I create models out of the interperations which are combined to laboratory testes to enable me to create reports out of the results.',
